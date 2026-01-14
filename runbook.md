@@ -52,15 +52,15 @@ nano .env  # or your preferred editor
 
 **Required configuration:**
 
-| Variable | Description | Example |
-|----------|-------------|---------|
-| `SPACECAT_API_KEY` | Spacecat API key | `hebelehebele` |
+| Variable | Description | Example                             |
+|----------|-------------|-------------------------------------|
+| `SPACECAT_API_KEY` | Spacecat API key | `blabla`                            |
 | `SPACECAT_IMS_ORG_ID` | Adobe IMS Org ID | `908936ED5D35CC220A495CD4@AdobeOrg` |
-| `SPACECAT_AWS_ACCESS_KEY_ID` | AWS access key | `ASIA...` |
-| `SPACECAT_AWS_SECRET_ACCESS_KEY` | AWS secret key | `xxx...` |
-| `SPACECAT_AWS_SESSION_TOKEN` | AWS session token | `IQoJb3...` |
-| `SQS_SPACECAT_TO_MYSTIQUE_QUEUE_URL` | SQS queue URL | `https://sqs.us-east-1...` |
-| `REPO_PATH` | Path to customer repo | `/path/to/repo` |
+| `SPACECAT_AWS_ACCESS_KEY_ID` | AWS access key | `ASIA...`                           |
+| `SPACECAT_AWS_SECRET_ACCESS_KEY` | AWS secret key | `xxx...`                            |
+| `SPACECAT_AWS_SESSION_TOKEN` | AWS session token | `IQoJb3...`                         |
+| `SQS_SPACECAT_TO_MYSTIQUE_QUEUE_URL` | SQS queue URL | `https://sqs.us-east-1...`          |
+| `REPO_PATH` | Path to customer repo | `/path/to/repo`                     |
 
 ### 4. Customer Repository Setup
 
